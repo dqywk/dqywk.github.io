@@ -1,50 +1,91 @@
-一些网址：https://www.cnblogs.com/alchemist-z/p/12249362.htmlhttps://blog.csdn.net/Lambert0320/article/details/98728489?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-14.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-14.nonecasehttps://reactjs.bootcss.com/ react 官网 需要重新学习一下进阶https://github.com/rehooks/awesome-react-hooks // github上的hook例子https://es6.ruanyifeng.com/   // ECMAScript 6 入门https://www.jianshu.com/p/4c54ae2bc925 //   Ant Design Pro 学习笔记 很好https://www.w3school.com.cn/js/jsref_split.asphttps://blog.csdn.net/orange_cccc/article/details/84819151?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-6.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-6.channel_param //对话框https://segmentfault.com/a/1190000014723549 //react 拖拽解析https://www.jianshu.com/p/24a46bb1d3a3    //基于React 的组件可视化自由拖拽页面生成代码生成工具https://github.com/lzuntalented/lz-h5-edit //随心秀http://blog.lzuntalented.cn/sxx/%E9%A1%B9%E7%9B%AE%E8%A7%A3%E6%9E%90.html#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84//随心秀解析https://pro.ant.design/docs/authority-management-cn  //pro 官网https://umijs.org/zh-CN/docs/getting-started  //umi官网https://dvajs.com/guide/getting-started.html#%E5%AE%9A%E4%B9%89-model //dva 官网一些网址//React + Dva + Antd + Umi 快速入门https://blog.csdn.net/SCU_Cindy/article/details/82432971  https://blog.csdn.net/scu_cindy/article/details/82914547?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-6&spm=1001.2101.3001.4242 //手把手教你搭建 Dva + Umi 开发环境//React+ Dva + Atd入门知识(必读)——框架详解https://blog.csdn.net/PINGER0077/article/details/84104053
+第一模块 同理心
 
-https://www.bilibili.com/video/BV1NJ411W7wh/?p=2  //向军 后盾人 js基础学习视频。可以每天看一两个。
+1.产品的能力
+ 用户是驱动。
 
+一双眼睛，发现痛点、找到破局点的敏锐之眼；一双手，动手优化、着手改变的行动之手；一颗心，洞察人性的同理心，懂得自己与用户，懂得产品上每个细节给别人的满足感、确认感和依赖感。
 
-https://cn.bing.com/ //微软bing
+产品能力是动手能力、掌控能力。通过产品与人对话，与人连接。
 
-https://reactrouter.com/web/guides/quick-start  //reactrouter 官方网址官方网址
+2.用户体验与结婚教练
+用产品经理的视角来看人
 
-//redux 学习路径
-	* 
-https://www.redux.org.cn/  //Redux 中文文档
-	* 
-http://cn.redux.js.org/index.html  //Redux 中文官方文档，好像和上面的一样
-	* 
-  http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html  // redux 阮一峰
+人和产品的五个层次
+第一层：感知层
+看外观
 
+第二层 角色框架层
+人在社会中所处的角色
 
+第三层 资源结构层
+财富 人脉 资源
 
+一个人的内核，就是他的存在感。
 
-https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch  //fetch 用法说明
+第四层 人的能力圈
 
+ 第五层 一个人的内核，就是他对自己存在感的定义
 
+3.同理心训练：怎样理解愉悦与不爽
+“学了很多道理，但还是过不好这一生”
+知识的调用需要时间和思考，情绪却是一瞬间的体验。
 
-地图
-https://elemefe.github.io/react-amap/components/circle //react-amap 地图
+产品经理要学会读懂用户的情绪。
 
-https://www.jianshu.com/p/f8a2341edda5
+满足就愉悦。不被满足就不爽。
 
+优秀的人特性：敏感、不能忍、有动手优化的能力。
 
-https://yunp.top/blog/ //云加博客   //可以搜索相关问题
+通过满足、愉悦、不爽来度量下面三种关系：
+一个产品到不到位
+你和一个人的关系
+自动的天分和命运
 
-http://iwenwiki.com/api/   //云博数据地址。可以借用
+4.同理心训练：怎样理解愤怒与恐惧
+一、恐惧是边界
+恐惧会困住一个人的手脚。
+劝说别人只需要5分钟，如果不能打动就放弃。
+二、恐惧是动力
+一个年轻人，如果工作中没有恐惧也没有愉悦，基本上他不会有什么成就。
+三、恐惧是痛点
+要么做一个让人愉悦的产品，要么做一个可以帮助人抵御恐惧的产品。
 
-https://yunp.top/blog/index.php/2016/05/12/44/  //跨域问题
+如何找到产品的接入点或者怎样改变自己的人生。答案：直面恐惧
 
-http://tingapi.ting.baidu.com/v1/restserver/ting?method=baidu.ting.billboard.billList&type=1&size=10&offset=0  //百度音乐接口
+5.产品要顺应用户潜意识
+Facebook 扎克伯格
+QQ 马化腾
+微信 张小龙
 
-https://www.yuque.com/study365/ant/zklepo  // Ant Design Pro 入门到实战手册
+销售 打破防御
+产品经理  不让用户启动防御
 
+一个产品如果引发用户启动意识，让那个用户思考，某种意义上就是推开用户。因为意识就是防御。
 
-拖拽组态软件
-https://juejin.cn/post/6844903843436691463
+与人交往，或者做一个产品让别人用，怎么能够突破防御，让对方接受你 ，说服别人，驱动别人，其实都是一回事。
 
+如果要做一个拥有大量用户的产品经理，要尊重人欲。
 
-http://192.168.199.211:2000/  //公司月报
+用户调用就是清空自己，接纳别人的世界观。
 
-http://192.168.199.180:6888/shr  //金蝶
+6.认清人的本性，理解角色化生存
 
-https://blog.csdn.net/gongch0604/article/details/83346101
+一。确立目标
+二。建立恐惧的边界
+三。放入清晰的标的
+四。给予红利，然后让它产生路径依赖
+五。不断重复
+
+好的用户体验，目标就是做到自然。
+
+如果你的产品的使用对象是一个“个体”，那你必须要抛开对个体角色化的刻板想象，而把对方当成一个完整的、鲜活的人，去做用户研究。
+
+但是如果你是在给一个特点的集体做产品，那么其实你应该充分研究这个集体的集体人格、共同记忆和核心观念。
+
+7、自我与自律，那一种更贴近产品精神
+做产品经理的人善于感知，在已有的结论上建立新观点。而做其他管理的人更善于逻辑推理和宗教归纳。
+
+自我的人更适合做产品
+
+右脑思维的人 感知力强
+左脑思维的人 更自律
